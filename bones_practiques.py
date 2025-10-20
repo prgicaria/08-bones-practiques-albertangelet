@@ -1,3 +1,4 @@
+"#!/usr/bin/env python" bones_practiques.py
 """
 Programa: divisio_entera.py. Programa que demana a l'usuari dos nombres
 enters (dividend i divisor) i els divideix
