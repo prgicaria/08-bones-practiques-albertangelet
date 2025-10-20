@@ -1,6 +1,6 @@
 """
-Programa: divisio_entera.py. Programa que demana a l'usuari dos nombres enters (dividend i divisor) i els divideix
-
+Programa: divisio_entera.py. Programa que demana a l'usuari dos nombres
+enters (dividend i divisor) i els divideix
 Institut Icaria
 Programació - 1r Batxillerat - Curs 2025-2026
 """
@@ -15,8 +15,8 @@ if divisor == 0:
 else:
     divisio = dividend/divisor
     quocient = dividend//divisor
-    residu = dividend%divisor
- 
+    residu = dividend % divisor
+
     print(f"Divisió: {dividend}/{divisor}")
     print(f"Quocient: {quocient}")
     print(f"Residu: {residu}")
